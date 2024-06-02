@@ -1,7 +1,10 @@
 # Project Description
 Generate a logistic regression model on the survivality of titanic passengers and create a UI interface for the model using streamlit
 
-## Variable Definitions
+## App Link
+https://titanicpredictionapp-hosz392xwjwhhhhqup4mhd.streamlit.app/
+
+## Dataset Variable Definitions
 
 | Variable  | Definition    | Key   |
 | --------- | ------------- | ----- |
